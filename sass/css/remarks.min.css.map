@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,QAAQ,AAAC,CAEL,cAAc,CAAE,IAAI,CACpB,SAAS,CAAE,KAAK,CAqBf,AAnBI,AAAD,iBAAU,AAAC,CACP,OAAO,CAAE,IAAI,CACb,cAAc,CAAE,MAAM,CACtB,eAAe,CAAE,MAAM,CAe1B,AAXA,AAAD,4BAAY,AAAC,CACT,SAAS,CAAE,IAAI,CACf,WAAW,CAAE,GAAG,CACR,KAAK,CAAE,OAAO,CAErB,AACJ,AAAD,uBAAO,AAAC,CAEJ,KAAK,CAAE,KAAK,CAEf",
+    "sources": [
+        "../blocks/remarks.scss"
+    ],
+    "names": [],
+    "file": "remarks.min.css"
+}
