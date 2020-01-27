@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,KAAK,AAAC,CAEF,cAAc,CAAE,IAAI,CACpB,SAAS,CAAE,KAAK,CAqBf,AAnBI,AAAD,cAAU,AAAC,CACP,OAAO,CAAE,IAAI,CACb,cAAc,CAAE,MAAM,CACtB,eAAe,CAAE,MAAM,CAe1B,AAXA,AAAD,yBAAY,AAAC,CACT,SAAS,CAAE,IAAI,CACf,WAAW,CAAE,GAAG,CACR,KAAK,CAAE,OAAO,CAErB,AACJ,AAAD,oBAAO,AAAC,CAEJ,KAAK,CAAE,KAAK,CAEf",
+    "sources": [
+        "../blocks/feed..scss"
+    ],
+    "names": [],
+    "file": "feed..min.css"
+}
